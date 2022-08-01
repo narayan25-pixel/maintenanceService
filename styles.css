@@ -196,7 +196,7 @@ a:focus {
 }
 
 .custom_nav-container .navbar-toggler .navbar-toggler-icon {
-  background-image: url(../images/menu.png);
+  background-image: url(./images/menu.png);
   background-size: 42px;
 }
 
@@ -253,25 +253,25 @@ a:focus {
 
 .slider_section .carousel-control-prev {
   left: 2%;
-  background-image: url(../images/left-arrow-black.png);
+  background-image: url(./images/left-arrow-black.png);
 }
 
 .slider_section .carousel-control-prev:hover {
-  background-image: url(../images/left-arrow.png);
+  background-image: url(./images/left-arrow.png);
 }
 
 .slider_section .carousel-control-next {
   right: 2%;
-  background-image: url(../images/right-arrow-black.png);
+  background-image: url(./images/right-arrow-black.png);
 }
 
 .slider_section .carousel-control-next:hover {
-  background-image: url(../images/right-arrow.png);
+  background-image: url(./images/right-arrow.png);
 }
 
 /* end slider section */
 .bg {
-  background-image: url(../images/bg.jpg);
+  background-image: url(./images/bg.jpg);
   background-size: cover;
 }
 
